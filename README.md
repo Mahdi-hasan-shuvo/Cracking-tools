@@ -1,5 +1,5 @@
 # Cracking-tools
-
+  
 **WARNING:** This tool is provided for **authorized security testing and educational purposes only**.  
 Unauthorized use against systems you do not own or have explicit permission to test is **illegal** and violates GitHub’s Terms of Service. The author assumes no liability for misuse.
 
